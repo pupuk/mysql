@@ -1,4 +1,4 @@
-# MySQL1000问 记录和分享
+# MySQL记录和分享
 
 - [MySQL事务中update语句特殊情况下不会执行](https://github.com/pupuk/mysql/issues/9)
 - [MySQL使用过程中的一些坑](https://github.com/pupuk/mysql/issues/8)
