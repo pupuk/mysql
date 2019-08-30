@@ -1,6 +1,6 @@
 # MySQL记录和分享
 
-- [MySQL开启慢日志](https://github.com/pupuk/mysql/issues/10)
+- [MySQL开启慢日志- Enable MySQL slow query log](https://github.com/pupuk/mysql/issues/10)
 - [MySQL事务中update语句特殊情况下不会执行](https://github.com/pupuk/mysql/issues/9)
 - [MySQL使用过程中的一些坑](https://github.com/pupuk/mysql/issues/8)
 - [事务的隔离级别要点思考与回顾](https://github.com/pupuk/mysql/issues/7)
