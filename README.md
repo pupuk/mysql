@@ -1,4 +1,5 @@
 # MySQL记录和分享
+- [MySQL文章系列（温故而知新）链接](https://github.com/pupuk/mysql/issues/14)
 - [SQL_MODE 使用 MySQL 的 SQL_MODE 有哪些坑，你知道么？[转载学习]](https://github.com/pupuk/mysql/issues/13)
 - [昙花一现的Query Cache](https://github.com/pupuk/mysql/issues/12)
 - [MySQL开启慢日志- Enable MySQL slow query log](https://github.com/pupuk/mysql/issues/10)
